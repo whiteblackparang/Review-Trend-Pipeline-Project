@@ -52,8 +52,3 @@ python main.py
 2. Incoming Webhooks → Activate → Add New Webhook
 3. 채널 선택 → Webhook URL 복사
 
-## 산출물
-
-- `tableau_reviews.csv` — 리뷰 원본 + 감성 레이블
-- `tableau_keywords.csv` — 키워드 빈도 데이터
-- Tableau Public에서 위 CSV 연결 후 대시보드 제작
